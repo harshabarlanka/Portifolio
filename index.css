@@ -52,7 +52,7 @@ nav ul li a::after {
   background: #ff004f;
   position: absolute;
   left: 0;
-  bottom: -6px;
+  bottom: -7px;
   transition: 0.5s;
 }
 nav ul li a:hover::after {
